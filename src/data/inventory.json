@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "mmjpyn2v71c8kcty5rr",
+    "name": "Laptop Gamer",
+    "description": "Laptop con RTX 3080",
+    "quantity": 10,
+    "price": 1500.99,
+    "category": "Electrónica",
+    "createdAt": "2026-03-09T21:54:45.463Z",
+    "updatedAt": "2026-03-09T21:54:45.464Z"
+  }
+]
